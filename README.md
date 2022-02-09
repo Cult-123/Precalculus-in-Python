@@ -1,7 +1,7 @@
 ## Precalculus in Python
 This repo contains basics of precalculus which are as follows:
 
-**1.** library function types & their 2D graphical images
+**1.** library function types & their 2D graphical images<br>
 **2.** standard normal distribution using histogram
 **3.** Trig functions & their 2D graphical image plot
 **4.** Continuous trig functions
