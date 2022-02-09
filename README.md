@@ -1,4 +1,4 @@
-# Precalculus in Python
+# Precalculus-in-Python
 This repo contains basics of precalculus which are as follows:
 
 **1.** library function types & their 2D graphical images.<br>
