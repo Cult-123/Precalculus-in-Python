@@ -1,10 +1,11 @@
 # Precalculus in Python
-This repo contains basics of precalculus such as...
-## library function types & their 2D graphical images
-## standard normal distribution using histogram
-## Trig functions & their 2D graphical image plot
-## Continuous trig functions
-## Graphing 3D Sphere
-## Graphine exponential functions
-## Graphing transformations of library functions
-## Creating scatter plot.
+This repo contains basics of precalculus which are as follows:
+
+**1. library function types & their 2D graphical images
+**2. standard normal distribution using histogram
+**3. Trig functions & their 2D graphical image plot
+**4. Continuous trig functions
+**5. Graphing 3D Sphere
+**6. Graphine exponential functions
+**7. Graphing transformations of library functions
+**8. Creating scatter plot.
